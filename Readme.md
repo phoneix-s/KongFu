@@ -11,11 +11,11 @@
 
 **武术动作评分系统**
 
-<video src="/home/user/桌面/test/github/img/评分.mp4"></video>
+<video src="./img/评分.mp4"></video>
 
 **武术双人PK小游戏**
 
-<video src="/home/user/桌面/test/github/img/PK.mp4"></video>
+<video src="./img/PK.mp4"></video>
 
 
 
